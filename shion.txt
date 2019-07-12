@@ -16,6 +16,6 @@
 <!--回复无竖线-->
 <!--回复覆盖-->
 <div style="width:100%; float:left;position:relative;">
-    <h6 style="width:100%;margin:0 0 0 98px;background-color:#fff; position:absolute;bottom:3px">{T}</h6>
+    <h6 style="width:100%;margin:0 0 0 98px;background-color:#fff; font-size:14px;line-height:20px;position:absolute;bottom:0px">{T}</h6>
 </div>
 <!--回复覆盖-->
