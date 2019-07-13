@@ -4,6 +4,19 @@
     <div style="font-size:27px;">{T}</div>
 </div>
 <!--原推特-->
+<!--原推特海星体（首次加载较慢）-->
+<style type="text/css">
+@font-face {
+/* font-test*/
+font-family: mengnan;
+src:url('https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/STHeiti-Medium002.TTF')
+}
+</style>
+<div style="margin:10px 38px">
+    <img src="img/gongfang_official.png" height="38">
+    <div style="font-size:27px;font-family:'黑体-简',mengnan">{T}</div>
+</div>
+<!--原推特海星体（首次加载较慢）-->
 <!--回复有竖线-->
 <div style="width:100%; padding-top:8px;background-image: url(img/twitterreplyblue.png);">
     <h6 style="margin:0 0 0 98px">{T}</h6>
