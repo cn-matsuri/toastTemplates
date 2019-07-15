@@ -1,15 +1,41 @@
 # 烤肉机的模板
 
 ## 使用方法
+烤肉机链接：https://ts.matsuri.design/
+
+打开烤肉机后，输入需要查询的推特永久链接。查询。输入翻译内容，满意后下载图片即可。  
+打开任意一个模板，然后开始输入你想输入的翻译内容就行了。  
+这个模板是完全可以自定义的，自己写HTML就好。  
+
+模板打开链接的示例：https://ts.matsuri.design/?template=永久链接.txt  （这里替换永久链接.txt成一个真的文件链接）
 
 https://ts.matsuri.design/?template=模板链接
 
 ## 现有的模板
-夏色祭工坊：  
+
+已经完成的模板示例：  
+- [夏色祭工坊模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/matsuri.txt)
+- [诗音的魔法协模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/shion.txt)
+- [吹雪的喵咪茶模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/fubuki.txt)
+
+
+夏色祭工坊链接：  
 https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/matsuri.txt
 
-诗音的魔法协会：  
+诗音的魔法协会链接：  
 https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/shion.txt
 
-吹雪的喵咪茶铺：  
+吹雪的喵咪茶铺链接：  
 https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/fubuki.txt
+
+
+### 快速链接导航：  
+
+使用规范：  
+https://ts.matsuri.design/?tweet=链接地址
+
+原推链接：  
+https://twitter.com/natsuiromatsuri/status/1149735718698176513
+
+快速链接使用例子：  
+https://ts.matsuri.design/?tweet=https://twitter.com/natsuiromatsuri/status/1149735718698176513
