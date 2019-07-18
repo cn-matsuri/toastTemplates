@@ -39,3 +39,10 @@
     <h4 style="margin:0 0 0 65px">{T}<h4>
 </div>
 <!--回复黑线后对齐-->
+<!--(防止图片割裂)-->
+<div style="width:100%; float:left;position:relative;">
+    <h6
+        style="width:100%;margin:0 0 0 98px;background-color:#fff; font-size:14px;line-height:20px;position:absolute;top:10px">
+        {T}</h6>
+</div>
+<!--(防止图片割裂)-->
