@@ -9,6 +9,7 @@
 <!--工坊Logo样式1-->
 <!--样式1海星字体（首次加载较慢）-->
 <style type="text/css">
+.link{color:#1DA1F2}
     @font-face {
         font-family: mengnan;
         src: url('https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/STHeiti-Medium002.TTF')
@@ -48,6 +49,9 @@
 </div>
 <!--回复无竖线-->
 <!--回复覆盖-->
+<style type="text/css">
+    .link{color:#1DA1F2}
+</style>
 <div style="width:100%; float:left;position:relative;">
     <h6
         style="width:100%;margin:0 0 0 98px;background-color:#fff; font-size:14px;line-height:20px;position:absolute;bottom:0px;width: 482px;word-break: break-word;">
