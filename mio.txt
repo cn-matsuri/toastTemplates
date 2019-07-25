@@ -1,6 +1,6 @@
 <!--Mio Logo样式1-->
 <style type="text/css">
-    .link{color:#1DA1F2}
+    .link{color:#E81C4F}
 </style>
 <div style="margin:10px 38px">
     <img src="img/mio_small.png" height="40">
@@ -9,7 +9,7 @@
 <!--Mio Logo样式1-->
 <!--样式1海星字体（首次加载较慢）-->
 <style type="text/css">
-.link{color:#1DA1F2}
+.link{color:#E81C4F}
     @font-face {
         font-family: mengnan;
         src: url('https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/STHeiti-Medium002.TTF')
@@ -32,7 +32,7 @@
 <!--回复无竖线-->
 <!--回复覆盖-->
 <style type="text/css">
-    .link{color:#1DA1F2}
+    .link{color:#E81C4F}
 </style>
 <div style="width:100%; float:left;position:relative;">
     <h6
