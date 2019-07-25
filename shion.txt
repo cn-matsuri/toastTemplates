@@ -1,10 +1,16 @@
 <!--诗音Logo样式1-->
+<style type="text/css">
+    .link{color:#1DA1F2}
+</style>
 <div style="margin:10px 38px">
     <img src="img/magic_small.png" width="410">
     <div style="font-size:27px;">{T}</div>
 </div>
 <!--诗音Logo样式1-->
 <!--样式1海星字体（首次加载较慢）-->
+<style type="text/css">
+    .link{color:#1DA1F2}
+</style>
 <style type="text/css">
     @font-face {
         font-family: mengnan;
@@ -27,6 +33,9 @@
 </div>
 <!--回复无竖线-->
 <!--回复覆盖-->
+<style type="text/css">
+    .link{color:#1DA1F2}
+</style>
 <div style="width:100%; float:left;position:relative;">
     <h6
         style="width:100%;margin:0 0 0 98px;background-color:#fff; font-size:14px;line-height:20px;position:absolute;bottom:0px">
