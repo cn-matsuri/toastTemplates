@@ -18,18 +18,8 @@ https://ts.matsuri.design/?template=模板链接
 - [诗音的魔法协模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/shion.txt)
 - [吹雪的喵咪茶模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/fubuki.txt)
 - [润羽露西娅模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/rushia.txt)
+- [大神澪模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/mio.txt)
 
-夏色祭工坊链接：  
-https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/matsuri.txt
-
-诗音的魔法协会链接：  
-https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/shion.txt
-
-吹雪的喵咪茶铺链接：  
-https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/fubuki.txt
-
-润羽露西娅链接：
-https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/rushia.txt
 
 ### 快速链接导航：  
 
@@ -41,3 +31,5 @@ https://twitter.com/natsuiromatsuri/status/1149735718698176513
 
 快速链接使用例子：  
 https://ts.matsuri.design/?tweet=https://twitter.com/natsuiromatsuri/status/1149735718698176513
+
+## 全自动使用：
