@@ -20,6 +20,7 @@ https://ts.matsuri.design/?template=模板链接
 - [润羽露西娅模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/rushia.txt)
 - [大神澪模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/mio.txt)
 - [星街彗星模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/suisei.txt)
+- [星空莫娜卡](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/monoka.txt)
 
 ### 快速链接导航：  
 
