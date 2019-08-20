@@ -58,6 +58,16 @@
         {T}</h6>
 </div>
 <!--回复覆盖-->
+<!--原文覆盖-->
+<style type="text/css">
+    .link{color:#1DA1F2}
+</style>
+<div style="width:100%; float:left;position:relative;">
+    <h6
+        style="width:100%;margin:0 0 0 40px;background-color:#fff; font-size:27px;line-height:33.75px;position:absolute;bottom:0px;width: 560px;word-break: break-word;">
+        {T}</h6>
+</div>
+<!--原文覆盖-->
 <!--回复黑线后对齐-->
 <div style="margin:10px 38px">
     &emsp;&emsp;&emsp;&ensp;<img src="img/gongfang_official.png" height="38">
