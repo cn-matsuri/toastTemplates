@@ -54,7 +54,7 @@
 </style>
 <div style="width:100%; float:left;position:relative;">
     <h6
-        style="width:100%;margin:0 0 0 98px;background-color:#fff; font-size:14px;line-height:20px;position:absolute;bottom:0px;width: 482px;word-break: break-word;">
+        style="width:100%;margin:0 0 0 98px;background-color:#fff; font-size:14px;line-height:20px;position:absolute;bottom:0px;width: 500px;word-break: break-word;">
         {T}</h6>
 </div>
 <!--回复覆盖-->
