@@ -14,13 +14,14 @@ https://ts.matsuri.design/?template=模板链接
 ## 现有的模板
 
 已经完成的模板示例：  
-- [夏色祭工坊模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/matsuri.txt)
-- [诗音的魔法协模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/shion.txt)
-- [吹雪的喵咪茶模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/fubuki.txt)
-- [润羽露西娅模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/rushia.txt)
-- [大神澪模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/mio.txt)
-- [星街彗星模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/suisei.txt)
+- [夏色祭工坊](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/matsuri.txt)
+- [诗音的魔法协](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/shion.txt)
+- [吹雪的喵咪茶](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/fubuki.txt)
+- [润羽露西娅](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/rushia.txt)
+- [大神澪](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/mio.txt)
+- [星街彗星](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/suisei.txt)
 - [星空莫娜卡](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/monoka.txt)
+- [宝钟玛琳](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/marine.txt)
 - [天神子兔音组模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/kotone.txt)
 
 ### 快速链接导航：  
