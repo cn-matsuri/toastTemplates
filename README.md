@@ -23,6 +23,7 @@ https://ts.matsuri.design/?template=模板链接
 - [星空莫娜卡](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/monoka.txt)
 - [宝钟玛琳](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/marine.txt)
 - [天神子兔音组模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/kotone.txt)
+- [空白模板](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/blank.txt)
 
 ### 快速链接导航：  
 
