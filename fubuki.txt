@@ -2,9 +2,9 @@
 <style type="text/css">
     .link{color:#1DA1F2}
 </style>
-<div style="margin:10px 38px">
-    <img src="img/fbk_small.jpg" width="360">
-    <div style="font-size:27px;">{T}</div>
+<div style="padding:10px 38px">
+    <img src="img/fbk_small.jpg" height="49">
+    <div style="font-size: 27px;width: 544px;word-break: break-word;">{T}</div>
 </div>
 <!--茶铺logo样式1-->
 <!--样式1海星字体（首次加载较慢）-->
