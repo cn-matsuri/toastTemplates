@@ -4,7 +4,7 @@
 </style>
 <div style="margin:10px 38px">
     <img src="img/marine_small.jpg" height="40">
-    <div style="font-size:27px;">{T}</div>
+    <div style="font-size:27px;width: 544px;word-break: break-word;">{T}</div>
 </div>
 <!--玛琳logo样式1-->
 <!--样式1海星字体（首次加载较慢）-->
@@ -19,7 +19,7 @@
 </style>
 <div style="margin:10px 38px">
     <img src="img/marine_small.jpg" height="40">
-    <div style="font-size:27px;font-family:'黑体-简',mengnan;">{T}</div>
+    <div style="font-size:27px;width: 544px;word-break: break-word;font-family:'黑体-简',mengnan;">{T}</div>
 </div>
 <!--样式1海星字体（首次加载较慢）-->
 <!--回复有竖线-->
