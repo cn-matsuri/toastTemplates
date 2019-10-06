@@ -1,4 +1,4 @@
-<!--露西娅logo样式1-->
+﻿<!--露西娅logo样式1-->
 <style type="text/css">
     .link{color:#1DA1F2}
 </style>
@@ -7,6 +7,16 @@
     <div style="font-size:27px;">{T}</div>
 </div>
 <!--露西娅logo样式1-->
+<!--回复覆盖-->
+<style type="text/css">
+    .link{color:#1DA1F2}
+</style>
+<div style="width:100%; float:left;position:relative;">
+    <h6
+        style="width:100%;margin:0 0 0 98px;background-color:#fff; font-size:14px;line-height:20px;position:absolute;bottom:0px;width: 500px;word-break: break-word;">
+        {T}</h6>
+</div>
+<!--回复覆盖-->
 <!--样式1海星字体（首次加载较慢）-->
 <style type="text/css">
     .link{color:#1DA1F2}
@@ -32,16 +42,6 @@
     <h6 style="margin:0 0 0 98px">{T}</h6>
 </div>
 <!--回复无竖线-->
-<!--回复覆盖-->
-<style type="text/css">
-    .link{color:#1DA1F2}
-</style>
-<div style="width:100%; float:left;position:relative;">
-    <h6
-        style="width:100%;margin:0 0 0 98px;background-color:#fff; font-size:14px;line-height:20px;position:absolute;bottom:0px">
-        {T}</h6>
-</div>
-<!--回复覆盖-->
 <!--回复黑线后对齐-->
 <div style="margin:10px 38px">
     &emsp;&emsp;&emsp;&ensp;<img src="img/rushia_small.png" height="31">
