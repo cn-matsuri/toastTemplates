@@ -21,6 +21,7 @@ https://ts.matsuri.design/?template=模板链接
 - [星空莫娜卡](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/monoka.txt)
 - [宝钟玛琳](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/marine.txt)
 - [琴手Izuru](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/izuru.txt)
+- [大空スバル的荞麦面馆](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/486.txt)
 
 ## 官组
 - [润羽露西娅](https://ts.matsuri.design/?template=https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/rushia.txt)
