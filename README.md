@@ -23,7 +23,7 @@ https://ts.matsuri.design/?template=模板链接
 已经完成的模板示例：  
 - [夏色祭工坊](https://ts.matsuri.design/?template=/template/matsuri.txt)
 - [诗音的魔法协会](https://ts.matsuri.design/?template=/template/shion.txt)
-- [吹雪的喵咪茶](https://ts.matsuri.design/?template=/template/fubuki.txt)
+- [吹雪的猫咪茶铺](https://ts.matsuri.design/?template=/template/fubuki.txt)
 - [大神澪](https://ts.matsuri.design/?template=/template/mio.txt)
 - [星空莫娜卡](https://ts.matsuri.design/?template=/template/monoka.txt)
 - [宝钟玛琳](https://ts.matsuri.design/?template=/template/marine.txt)
