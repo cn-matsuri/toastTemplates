@@ -29,6 +29,7 @@ https://ts.matsuri.design/?template=模板链接
 - [宝钟玛琳](https://ts.matsuri.design/?template=/template/marine.txt)
 - [琴手Izuru](https://ts.matsuri.design/?template=/template/izuru.txt)
 - [大空スバル的荞麦面馆](https://ts.matsuri.design/?template=/template/486.txt)
+- [辣辣七奈军](https://ts.matsuri.design/?template=/template/nana.txt)
 
 ## 官组
 - [润羽露西娅](https://ts.matsuri.design/?template=/template/rushia.txt)
@@ -36,6 +37,7 @@ https://ts.matsuri.design/?template=模板链接
 - [空白模板](https://ts.matsuri.design/?template=/template/blank.txt)
 - [天神子兔音组模板](https://ts.matsuri.design/?template=/template/kotone.txt)
 - [亚绮-罗森](https://ts.matsuri.design/?template=/template/aki.txt)
+- [艾玛的下仆军团](https://ts.matsuri.design/?template=/template/emma.txt)
 
 ### 快速链接导航：  
 
