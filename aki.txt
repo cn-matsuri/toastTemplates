@@ -3,7 +3,7 @@
     .link{color:#1DA1F2}
 </style>
 <div style="margin:10px 38px">
-    <img src="img/template/aki_small.png" height="40">
+    <img src="template/img/aki_small.png" height="40">
     <div style="font-size: 27px;width: 544px;word-break: break-word;">{T}</div>
 </div>
 <!--aki Logo样式1-->
@@ -26,13 +26,13 @@
     }
 </style>
 <div style="margin:10px 38px">
-    <img src="img/template/aki_small.png" height="40">
+    <img src="template/img/aki_small.png" height="40">
     <div style="font-size:27px;width: 544px;word-break: break-word;font-family:'黑体-简',mengnan;">{T}</div>
 </div>
 <!--样式1海星字体（首次加载较慢）-->
 <!--aki Logo样式2-->
 <div style="margin:10px 38px">
-    <img src="img/template/gongfang_keke.png" height="31">
+    <img src="template/img/gongfang_keke.png" height="31">
     <div style="font-size:27px;width: 544px;word-break: break-word;">{T}</div>
 </div>
 <!--aki Logo样式2-->
@@ -44,7 +44,7 @@
     }
 </style>
 <div style="margin:10px 38px">
-    <img src="img/template/gongfang_keke.png" height="31">
+    <img src="template/img/gongfang_keke.png" height="31">
     <div style="font-size:27px;width: 544px;word-break: break-word;font-family:'黑体-简',mengnan;">{T}</div>
 </div>
 <!--样式2海星字体（首次加载较慢）-->
@@ -70,7 +70,7 @@
 <!--原文覆盖-->
 <!--回复黑线后对齐-->
 <div style="margin:10px 38px">
-    &emsp;&emsp;&emsp;&ensp;<img src="img/template/aki_small.png" height="40">
+    &emsp;&emsp;&emsp;&ensp;<img src="template/img/aki_small.png" height="40">
     <h4 style="margin:0 0 0 65px">{T}<h4>
 </div>
 <!--回复黑线后对齐-->

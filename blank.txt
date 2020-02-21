@@ -3,7 +3,7 @@
     .link{color:#1DA1F2}
 </style>
 <div style="margin:10px 38px">
-    <img src="img/template/blank_small.png" height="38">
+    <img src="template/img/blank_small.png" height="38">
     <div style="font-size: 27px;width: 544px;word-break: break-word;">{T}</div>
 </div>
 <!--blank样式1-->

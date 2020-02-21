@@ -3,7 +3,7 @@
     .link{color:#1DA1F2}
 </style>
 <div style="margin:10px 38px">
-    <img src="img/template/monoka_small.png" height="41">
+    <img src="template/img/monoka_small.png" height="41">
     <div style="font-size:27px;">{T}</div>
 </div>
 <!--星空莫娜Logo样式1-->
@@ -18,7 +18,7 @@
     }
 </style>
 <div style="margin:10px 38px">
-    <img src="img/template/monoka_small.png" height="41">
+    <img src="template/img/monoka_small.png" height="41">
     <div style="font-size:27px;font-family:'黑体-简',mengnan;">{T}</div>
 </div>
 <!--样式1海星字体（首次加载较慢）-->
@@ -44,7 +44,7 @@
 <!--回复覆盖-->
 <!--回复黑线后对齐-->
 <div style="margin:10px 38px">
-    &emsp;&emsp;&emsp;&ensp;<img src="img/template/monoka_small.png" height="41">
+    &emsp;&emsp;&emsp;&ensp;<img src="template/img/monoka_small.png" height="41">
     <h4 style="margin:0 0 0 65px">{T}<h4>
 </div>
 <!--回复黑线后对齐-->
