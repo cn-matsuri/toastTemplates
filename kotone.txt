@@ -3,7 +3,7 @@
     .link{color:#1DA1F2}
 </style>
 <div style="margin:10px 38px">
-    <img src="img/kotone_small.png" height="38">
+    <img src="img/template/kotone_small.png" height="38">
     <div style="font-size: 27px;width: 544px;word-break: break-word;">{T}</div>
 </div>
 <!--神社Logo样式1-->
@@ -16,13 +16,13 @@
     }
 </style>
 <div style="margin:10px 38px">
-    <img src="img/kotone_small.png" height="38">
+    <img src="img/template/kotone_small.png" height="38">
     <div style="font-size:27px;width: 544px;word-break: break-word;font-family:'黑体-简',mengnan;">{T}</div>
 </div>
 <!--样式1海星字体（首次加载较慢）-->
 <!--神社Logo样式2-->
 <div style="margin:10px 38px">
-    <img src="img/kotone_small.png" height="31">
+    <img src="img/template/kotone_small.png" height="31">
     <div style="font-size:27px;width: 544px;word-break: break-word;">{T}</div>
 </div>
 <!--神社Logo样式2-->
@@ -34,7 +34,7 @@
     }
 </style>
 <div style="margin:10px 38px">
-    <img src="img/kotone_small.png" height="31">
+    <img src="img/template/kotone_small.png" height="31">
     <div style="font-size:27px;width: 544px;word-break: break-word;font-family:'黑体-简',mengnan;">{T}</div>
 </div>
 <!--样式2海星字体（首次加载较慢）-->
@@ -60,7 +60,7 @@
 <!--回复覆盖-->
 <!--回复黑线后对齐-->
 <div style="margin:10px 38px">
-    &emsp;&emsp;&emsp;&ensp;<img src="img/kotone_small.png" height="38">
+    &emsp;&emsp;&emsp;&ensp;<img src="img/template/kotone_small.png" height="38">
     <h4 style="margin:0 0 0 65px">{T}<h4>
 </div>
 <!--回复黑线后对齐-->
