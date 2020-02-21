@@ -3,7 +3,7 @@
     .link{color:#1DA1F2}
 </style>
 <div style="padding:10px 38px">
-    <img src="img/fbk_small.jpg" height="49">
+    <img src="img/template/fbk_small.jpg" height="49">
     <div style="font-size: 27px;width: 544px;word-break: break-word;">{T}</div>
 </div>
 <!--茶铺logo样式1-->

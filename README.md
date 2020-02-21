@@ -38,6 +38,8 @@ https://ts.matsuri.design/?template=模板链接
 - [天神子兔音组模板](https://ts.matsuri.design/?template=/template/kotone.txt)
 - [亚绮-罗森](https://ts.matsuri.design/?template=/template/aki.txt)
 - [艾玛的下仆军团](https://ts.matsuri.design/?template=/template/emma.txt)
+- [桐生组](https://ts.matsuri.design/?template=/template/coco.txt)
+- [Luna组](https://ts.matsuri.design/?template=/template/luna.txt)
 
 ### 快速链接导航：  
 
