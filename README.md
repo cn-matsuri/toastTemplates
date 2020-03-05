@@ -40,6 +40,7 @@ https://ts.matsuri.design/?template=模板链接
 - [艾玛的下仆军团](https://ts.matsuri.design/?template=/template/emma.txt)
 - [桐生组](https://ts.matsuri.design/?template=/template/coco.txt)
 - [Luna组](https://ts.matsuri.design/?template=/template/luna.txt)
+- [鹿乃](https://ts.matsuri.design/?template=/template/kano.txt)
 
 ### 快速链接导航：  
 
