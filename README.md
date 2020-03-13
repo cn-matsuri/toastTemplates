@@ -41,6 +41,7 @@ https://tweet.wudifeixue.com/?template=模板链接
 - [桐生组](https://tweet.wudifeixue.com/?template=/template/coco.txt)
 - [Luna组](https://tweet.wudifeixue.com/?template=/template/luna.txt)
 - [鹿乃](https://tweet.wudifeixue.com/?template=/template/kano.txt)
+- [角卷绵芽](https://tweet.wudifeixue.com/?template=/template/watame.txt)
 
 ### 快速链接导航：  
 
