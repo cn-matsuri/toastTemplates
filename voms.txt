@@ -3,7 +3,7 @@
     .link{color:#E81C4F}
 </style>
 <div style="margin:10px 38px">
-    <img src="https://github.com/LuvKotori/toastTemplates/blob/master/img/voms_small.png" height="38">
+    <img src="template/img/voms_small.png" height="38">
     <div style="font-size: 27px;width: 544px;word-break: break-word;">{T}</div>
 </div>
 <!--voms Logo样式1-->
