@@ -30,6 +30,7 @@ https://tweet.wudifeixue.com/?template=模板链接
 - [琴手Izuru](https://tweet.wudifeixue.com/?template=/template/izuru.txt)
 - [大空スバル的荞麦面馆](https://tweet.wudifeixue.com/?template=/template/486.txt)
 - [辣辣七奈军](https://tweet.wudifeixue.com/?template=/template/nana.txt)
+- [赤井心保护协会](https://tweet.wudifeixue.com/?template=template/haato.txt)
 
 ## 官组
 - [润羽露西娅](https://tweet.wudifeixue.com/?template=/template/rushia.txt)
@@ -42,6 +43,8 @@ https://tweet.wudifeixue.com/?template=模板链接
 - [Luna组](https://tweet.wudifeixue.com/?template=/template/luna.txt)
 - [鹿乃](https://tweet.wudifeixue.com/?template=/template/kano.txt)
 - [角卷绵芽](https://tweet.wudifeixue.com/?template=/template/watame.txt)
+- [时乃空](https://tweet.wudifeixue.com/?template=/template/sora.txt)
+
 
 ### 快速链接导航：  
 
