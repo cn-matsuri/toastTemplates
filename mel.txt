@@ -1,0 +1,76 @@
+<!--izuru Logo样式1-->
+<style type="text/css">
+    .link{color:#1DA1F2}
+</style>
+<div style="margin:10px 38px">
+    <img src="template/img/mel.png" height="60">
+    <div style="font-size: 27px;width: 544px;word-break: break-word;">{T}</div>
+</div>
+<!--izuru Logo样式1-->
+<!--回复覆盖-->
+<style type="text/css">
+    .link{color:#1DA1F2}
+</style>
+<div style="width:100%; float:left;position:relative;">
+    <h6
+        style="width:100%;margin:0 0 0 98px;background-color:#fff; font-size:14px;line-height:20px;position:absolute;bottom:0px;width: 500px;word-break: break-word;">
+        {T}</h6>
+</div>
+<!--回复覆盖-->
+<!--样式1海星字体（首次加载较慢）-->
+<style type="text/css">
+.link{color:#1DA1F2}
+    @font-face {
+        font-family: mengnan;
+        src: url('https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/STHeiti-Medium002.TTF')
+    }
+</style>
+<div style="margin:10px 38px">
+    <img src="template/img/mel.png" height="60">
+    <div style="font-size:27px;width: 544px;word-break: break-word;font-family:'黑体-简',mengnan;">{T}</div>
+</div>
+<!--样式1海星字体（首次加载较慢）-->
+<!--izuru Logo样式2-->
+<div style="margin:10px 38px">
+    <img src="template/img/mel.png" height="60">
+    <div style="font-size:27px;width: 544px;word-break: break-word;">{T}</div>
+</div>
+<!--izuru Logo样式2-->
+<!--样式2海星字体（首次加载较慢）-->
+<style type="text/css">
+    @font-face {
+        font-family: mengnan;
+        src: url('https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/STHeiti-Medium002.TTF')
+    }
+</style>
+<div style="margin:10px 38px">
+    <img src="template/img/mel.png" height="60">
+    <div style="font-size:27px;width: 544px;word-break: break-word;font-family:'黑体-简',mengnan;">{T}</div>
+</div>
+<!--样式2海星字体（首次加载较慢）-->
+<!--回复有竖线-->
+<div style="width:100%; padding-top:8px;background-image: url(img/twitterreplyblue.png);">
+    <h6 style="margin:0 0 0 98px">{T}</h6>
+</div>
+<!--回复有竖线-->
+<!--回复无竖线-->
+<div style="width:100%; padding-top:8px">
+    <h6 style="margin:0 0 0 98px">{T}</h6>
+</div>
+<!--回复无竖线-->
+<!--原文覆盖-->
+<style type="text/css">
+    .link{color:#1DA1F2}
+</style>
+<div style="width:100%; float:left;position:relative;">
+    <h6
+        style="width:100%;margin:0 0 0 40px;background-color:#fff; font-size:27px;line-height:33.75px;position:absolute;bottom:0px;width: 560px;word-break: break-word;">
+        {T}</h6>
+</div>
+<!--原文覆盖-->
+<!--回复黑线后对齐-->
+<div style="margin:10px 38px">
+    &emsp;&emsp;&emsp;&ensp;<img src="template/img/mel.png" height="60">
+    <h4 style="margin:0 0 0 65px">{T}<h4>
+</div>
+<!--回复黑线后对齐-->
