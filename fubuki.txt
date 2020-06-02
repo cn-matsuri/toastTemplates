@@ -2,7 +2,7 @@
 <style type="text/css">
     .link{color:#1DA1F2}
 </style>
-<div style="padding:10px 38px">
+<div style="margin:10px 15px">
     <img src="template/img/fbk_small.jpg" height="49">
     <div style="font-size: 27px;width: 544px;word-break: break-word;">{T}</div>
 </div>
