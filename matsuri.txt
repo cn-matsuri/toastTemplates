@@ -2,9 +2,9 @@
 <style type="text/css">
     .link{color:#1DA1F2}
 </style>
-<div style="margin:10px 38px">
+<div style="margin:10px 15px">
     <img src="template/img/gongfang_official.png" height="38">
-    <div style="font-size: 27px;width: 544px;word-break: break-word;">{T}</div>
+    <div style="font-size: 23px;width: 610px;word-break: break-word;">{T}</div>
 </div>
 <!--工坊Logo样式1-->
 <!--回复覆盖-->
@@ -13,7 +13,7 @@
 </style>
 <div style="width:100%; float:left;position:relative;">
     <h6
-        style="width:100%;margin:0 0 0 98px;background-color:#fff; font-size:14px;line-height:20px;position:absolute;bottom:0px;width: 500px;word-break: break-word;">
+        style="width:100%;margin:0 0 0 74px;background-color:#fff; font-size:15px;line-height:20px;position:absolute;bottom:0px;width: 500px;word-break: break-word;">
         {T}</h6>
 </div>
 <!--回复覆盖-->
