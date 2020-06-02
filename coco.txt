@@ -2,7 +2,7 @@
 <style type="text/css">
     .link{color:#1DA1F2}
 </style>
-<div style="margin:10px 38px">
+<div style="margin:10px 15px">
     <img src="template/img/coco_small.jpg" height="38">
     <div style="font-size: 27px;width: 544px;word-break: break-word;">{T}</div>
 </div>
@@ -13,7 +13,7 @@
 </style>
 <div style="width:100%; float:left;position:relative;">
     <h6
-        style="width:100%;margin:0 0 0 98px;background-color:#fff; font-size:14px;line-height:20px;position:absolute;bottom:0px;width: 500px;word-break: break-word;">
+        style="width:100%;margin:0 0 0 74px;background-color:#fff; font-size:15px;line-height:20px;position:absolute;bottom:0px;width: 500px;word-break: break-word;">
         {T}</h6>
 </div>
 <!--回复覆盖-->
@@ -25,15 +25,15 @@
         src: url('https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/STHeiti-Medium002.TTF')
     }
 </style>
-<div style="margin:10px 38px">
+<div style="margin:10px 15px">
     <img src="template/img/coco_small.jpg" height="38">
     <div style="font-size:27px;width: 544px;word-break: break-word;font-family:'黑体-简',mengnan;">{T}</div>
 </div>
 <!--样式1海星字体（首次加载较慢）-->
 <!--可可Logo样式2-->
-<div style="margin:10px 38px">
+<div style="margin:10px 15px">
     <img src="template/img/gongfang_keke.png" height="31">
-    <div style="font-size:27px;width: 544px;word-break: break-word;">{T}</div>
+    <div style="font-size:23px;width: 610px;word-break: break-word;">{T}</div>
 </div>
 <!--可可Logo样式2-->
 <!--样式2海星字体（首次加载较慢）-->
@@ -43,7 +43,7 @@
         src: url('https://raw.githubusercontent.com/cn-matsuri/toastTemplates/master/STHeiti-Medium002.TTF')
     }
 </style>
-<div style="margin:10px 38px">
+<div style="margin:10px 15px">
     <img src="template/img/gongfang_keke.png" height="31">
     <div style="font-size:27px;width: 544px;word-break: break-word;font-family:'黑体-简',mengnan;">{T}</div>
 </div>
@@ -69,7 +69,7 @@
 </div>
 <!--原文覆盖-->
 <!--回复黑线后对齐-->
-<div style="margin:10px 38px">
+<div style="margin:10px 15px">
     &emsp;&emsp;&emsp;&ensp;<img src="template/img/coco_small.jpg" height="38">
     <h4 style="margin:0 0 0 65px">{T}<h4>
 </div>
