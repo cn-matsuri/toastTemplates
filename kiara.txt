@@ -1,12 +1,12 @@
-<!--takanashi Logo样式1-->
+<!--kiara Logo样式1-->
 <style type="text/css">
     .link{color:#1DA1F2}
 </style>
 <div style="margin:10px 15px">
-    <img src="template/img/takanashi_medium.png" height="60">
+    <img src="template/img/kiara_medium.png" height="60">
     <div style="font-size: 27px;width: 544px;word-break: break-word;">{T}</div>
 </div>
-<!--takanashi Logo样式1-->
+<!--kiara Logo样式1-->
 <!--回复覆盖-->
 <style type="text/css">
     .link{color:#1DA1F2}
@@ -26,16 +26,16 @@
     }
 </style>
 <div style="margin:10px 15px">
-    <img src="template/img/takanashi_medium.png" height="60">
+    <img src="template/img/kiara_medium.png" height="60">
     <div style="font-size:27px;width: 544px;word-break: break-word;font-family:'黑体-简',mengnan;">{T}</div>
 </div>
 <!--样式1海星字体（首次加载较慢）-->
-<!--takanashi Logo样式2-->
+<!--kiara Logo样式2-->
 <div style="margin:10px 15px">
     <img src="template/img/gongfang_keke.png" height="31">
     <div style="font-size:23px;width: 610px;word-break: break-word;">{T}</div>
 </div>
-<!--takanashi Logo样式2-->
+<!--kiara Logo样式2-->
 <!--样式2海星字体（首次加载较慢）-->
 <style type="text/css">
     @font-face {
@@ -70,7 +70,7 @@
 <!--原文覆盖-->
 <!--回复黑线后对齐-->
 <div style="margin:10px 15px">
-    &emsp;&emsp;&emsp;&ensp;<img src="template/img/takanashi_medium.png" height="60">
+    &emsp;&emsp;&emsp;&ensp;<img src="template/img/kiara_medium.png" height="60">
     <h4 style="margin:0 0 0 65px">{T}<h4>
 </div>
 <!--回复黑线后对齐-->
