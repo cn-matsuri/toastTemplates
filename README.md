@@ -35,6 +35,7 @@ https://tweet.wudifeixue.com/?template=模板链接
 - [鹿友字幕组](https://tweet.wudifeixue.com/?template=template/kano.txt)
 - [Aki酱的深夜食堂](https://tweet.wudifeixue.com/?template=/template/aki_ship.txt)
 - [天音彼方的碗工厂](https://tweet.wudifeixue.com/?template=/template/kanata.txt)
+- [湊阿库娅的洋葱港](https://tweet.wudifeixue.com/?template=/template/onion.txt)
 
 ## 官组
 - [润羽露西娅](https://tweet.wudifeixue.com/?template=/template/rushia.txt)
