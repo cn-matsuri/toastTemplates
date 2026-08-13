@@ -1,0 +1,9 @@
+{
+  "name": "toast-templates",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "normalize": "node scripts/normalize.mjs",
+    "test": "node scripts/validate.mjs"
+  }
+}

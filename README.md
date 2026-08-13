@@ -1,65 +1,35 @@
-# 烤推机的模板
+# 烤推机模板库
 
-## 1031更新
-由于GFW将raw.githubusercontent.com放到了墙后，我们修改了模板实现方案。
+这是 [TweetToaster](https://github.com/cn-matsuri/TweetToaster) 的历史落款模板与 Logo 素材库。模板仍使用 `{T}` 代表翻译文字，同时增加了机器可读的 [`catalog.json`](catalog.json)，新版烤推机可以搜索、收藏并在浏览器本地记住常用模板。
 
-现在在 https://tweet.wudifeixue.com/template/ 下有本repo的clone，在PR到这个仓库后请在群里请求pull到服务器上。
+## 模板规范
 
-没有做CI的计划，反正通过PR也要我们手动……
+- 模板是 UTF-8、LF 换行的 `.txt` HTML 片段。
+- 图片放在 `img/`，模板内使用 `/template/img/文件名`；不再依赖 `raw.githubusercontent.com` 或 Base64 内嵌图片。
+- Logo 按图片原始 CSS 像素显示，只在超过出图内容宽度时等比缩小，禁止强制指定 `height` 或同时指定宽高。
+- `{T}` 必须至少出现一次。可用成对同名 HTML 注释保留多个历史变体。
+- 不允许脚本、事件属性或远程资源。
 
-## 使用方法
-烤推机链接：https://tweet.wudifeixue.com/
+新增模板时，请同时在 `catalog.json` 登记名称、文件、预览 Logo 和检索标签，然后运行：
 
-打开烤肉机后，输入需要查询的推特永久链接。查询。输入翻译内容，满意后下载图片即可。  
-打开任意一个模板，然后开始输入你想输入的翻译内容就行了。  
-这个模板是完全可以自定义的，自己写HTML就好。  
+```bash
+npm run normalize
+npm test
+```
 
-模板打开链接的示例：https://tweet.wudifeixue.com/?template=永久链接.txt  （这里替换永久链接.txt成一个真的文件链接）
+`normalize` 会移除 BOM/CRLF、失效的远程字体和强制 Logo 高度，并修正旧模板中未闭合的标签。`test` 会逐份检查所有模板、注释对和本地素材，不允许目录里出现未登记模板。
 
-https://tweet.wudifeixue.com/?template=模板链接
+## 兼容旧链接
 
-## 同人组
+历史链接格式继续有效：
 
-已经完成的模板示例：  
-- [夏色祭工坊](https://tweet.wudifeixue.com/?template=/template/matsuri.txt)
-- [诗音的魔法协会](https://tweet.wudifeixue.com/?template=/template/shion.txt)
-- [吹雪的猫咪茶铺](https://tweet.wudifeixue.com/?template=/template/fubuki.txt)
-- [大神澪](https://tweet.wudifeixue.com/?template=/template/mio.txt)
-- [星空莫娜卡](https://tweet.wudifeixue.com/?template=/template/monoka.txt)
-- [宝钟玛琳](https://tweet.wudifeixue.com/?template=/template/marine.txt)
-- [琴手Izuru](https://tweet.wudifeixue.com/?template=/template/izuru.txt)
-- [大空スバル的荞麦面馆](https://tweet.wudifeixue.com/?template=/template/486.txt)
-- [辣辣七奈军](https://tweet.wudifeixue.com/?template=/template/nana.txt)
-- [赤井心保护协会](https://tweet.wudifeixue.com/?template=template/haato.txt)
-- [梅露保护协会](https://tweet.wudifeixue.com/?template=template/mel.txt)
-- [鹿友字幕组](https://tweet.wudifeixue.com/?template=template/kano.txt)
-- [Aki酱的深夜食堂](https://tweet.wudifeixue.com/?template=/template/aki_ship.txt)
-- [天音彼方的碗工厂](https://tweet.wudifeixue.com/?template=/template/kanata.txt)
-- [湊阿库娅的洋葱港](https://tweet.wudifeixue.com/?template=/template/onion.txt)
+```text
+https://tweet.wudifeixue.com/?template=/template/matsuri.txt
+https://tweet.wudifeixue.com/?tweet=推文链接&template=/template/matsuri.txt
+```
 
-## 官组
-- [润羽露西娅](https://tweet.wudifeixue.com/?template=/template/rushia.txt)
-- [星街彗星](https://tweet.wudifeixue.com/?template=/template/suisei.txt)
-- [空白模板](https://tweet.wudifeixue.com/?template=/template/blank.txt)
-- [天神子兔音组模板](https://tweet.wudifeixue.com/?template=/template/kotone.txt)
-- [亚绮-罗森](https://tweet.wudifeixue.com/?template=/template/aki.txt)
-- [艾玛的下仆军团](https://tweet.wudifeixue.com/?template=/template/emma.txt)
-- [桐生组](https://tweet.wudifeixue.com/?template=/template/coco.txt)
-- [Luna组](https://tweet.wudifeixue.com/?template=/template/luna.txt)
-- [鹿乃](https://tweet.wudifeixue.com/?template=/template/kano.txt)
-- [角卷绵芽](https://tweet.wudifeixue.com/?template=/template/watame.txt)
-- [时乃空](https://tweet.wudifeixue.com/?template=/template/sora.txt)
-- [常暗永远](https://tweet.wudifeixue.com/?template=template/towa.txt)
+过去 README 中失效的 `aki_ship.txt` 和 `mel.txt` 已恢复；`mel.txt` 是 `yozora.txt` 的兼容入口，不会在新版素材库中重复显示。
 
-### 快速链接导航：  
+## 授权
 
-使用规范：  
-https://tweet.wudifeixue.com/?tweet=链接地址
-
-原推链接：  
-https://twitter.com/natsuiromatsuri/status/1149735718698176513
-
-快速链接使用例子：  
-https://tweet.wudifeixue.com/?tweet=https://twitter.com/natsuiromatsuri/status/1149735718698176513
-
-## 全自动使用：
+模板代码按本仓库 [`LICENSE`](LICENSE) 使用。各 Logo 的权利仍归其原作者或对应字幕组所有；整理与兼容不代表更改素材归属。
